@@ -44,7 +44,7 @@
   ],
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/ryanjdew/ml-highcharts-ng/issues"
+    "url": "https://github.com/hourdays/ml-highcharts-ng/issues"
   },
   "homepage": "https://github.com/hourdays/ml-highcharts-ng",
   "dependencies": {
