@@ -20,7 +20,7 @@
     "highcharts-ng": "~0.0.12",
     "lodash": ">= 2.4.x",
     "ml-common-ng": ">= 0.0.6",
-    "ml-search-ng-hourdays": "0.2.9",
+    "ml-search-ng-hourdays": ">= 0.2.9",
     "ui.bootstrap": ">= 1.1"
   },
   "devDependencies": {
