@@ -7,7 +7,7 @@
   ],
   "contributors": [
     "hourdays"
-  ]
+  ],
   "description": "AngularJS library for working with MarkLogic and Highcharts",
   "main": [
     "dist/ml-highcharts-ng.js",

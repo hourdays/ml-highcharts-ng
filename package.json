@@ -41,12 +41,12 @@
   "author": "Ryan Dew <ryan.j.dew@gmail.com>",
   "contributors": [
     "hourdays"
-  ]
+  ],
   "license": "Apache License 2.0",
   "bugs": {
     "url": "https://github.com/ryanjdew/ml-highcharts-ng/issues"
   },
-  "homepage": "https://github.com/ryanjdew/ml-highcharts-ng",
+  "homepage": "https://github.com/hourdays/ml-highcharts-ng",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4"
