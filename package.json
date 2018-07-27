@@ -1,6 +1,6 @@
 {
   "name": "ml-highcharts-ng-hourdays",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "AngularJS library for working with MarkLogic and Highcharts",
   "devDependencies": {
     "gulp": "^3.9.1",
