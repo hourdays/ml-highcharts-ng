@@ -1,10 +1,13 @@
 {
   "name": "ml-highcharts-ng",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "homepage": "https://github.com/ryanjdew/ml-highcharts-ng",
   "authors": [
     "Ryan Dew <ryan.j.dew@gmail.com>"
   ],
+  "contributors": [
+    "hourdays"
+  ]
   "description": "AngularJS library for working with MarkLogic and Highcharts",
   "main": [
     "dist/ml-highcharts-ng.js",
@@ -17,7 +20,7 @@
     "highcharts-ng": "~0.0.12",
     "lodash": ">= 2.4.x",
     "ml-common-ng": ">= 0.0.6",
-    "ml-search-ng": ">= 0.1.0",
+    "ml-search-ng-hourdays": "0.2.9",
     "ui.bootstrap": ">= 1.1"
   },
   "devDependencies": {

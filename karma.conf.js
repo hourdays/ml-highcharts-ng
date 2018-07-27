@@ -34,7 +34,8 @@ module.exports = function(config) {
       'bower_components/highcharts/highcharts.js',
       'bower_components/highcharts-ng/dist/highcharts-ng.min.js',
       'bower_components/ml-common-ng/dist/ml-common-ng.js',
-      'bower_components/ml-search-ng/dist/ml-search-ng.js',
+      //'bower_components/ml-search-ng/dist/ml-search-ng.js',
+      'bower_components/ml-search-ng-hourdays/dist/ml-search-ng.js',
 
       'dist/ml-highcharts-ng-tpls.min.js',
 

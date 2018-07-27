@@ -1,6 +1,6 @@
 {
-  "name": "ml-highcharts-ng",
-  "version": "0.0.17",
+  "name": "ml-highcharts-ng-hourdays",
+  "version": "0.0.18",
   "description": "AngularJS library for working with MarkLogic and Highcharts",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -39,6 +39,9 @@
     "Highcharts"
   ],
   "author": "Ryan Dew <ryan.j.dew@gmail.com>",
+  "contributors": [
+    "hourdays"
+  ]
   "license": "Apache License 2.0",
   "bugs": {
     "url": "https://github.com/ryanjdew/ml-highcharts-ng/issues"
